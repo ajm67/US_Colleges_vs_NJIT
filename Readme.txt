@@ -1,5 +1,6 @@
 Code will be able to answer these questions utilizing the excel documents, when imported into your local MySQL server
 
+The excel documents will need to be uplaoded with the names (Unitable20, etc.) 
 
 1) Display colleges from a same specific state, i.e. NJ. The function should allow the user to input the abbreviation of state for querying.
 2) Display colleges of same level of institution, i.e. 2. The function should allow the user to input the level number for querying.
